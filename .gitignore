@@ -1,0 +1,14 @@
+# Data and heavy files
+data/
+*.csv
+*.pkl
+
+# Environments and dependencies
+venv/
+node_modules/
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+.DS_Store
